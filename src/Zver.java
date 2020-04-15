@@ -1,3 +1,5 @@
 public class Zver {
-// test message
+    public static void main(String [] args){
+
+    }
 }
